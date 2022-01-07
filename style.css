@@ -37,6 +37,7 @@ kbd {
   display: block;
   font-size: 4rem;
   color: rgb(236, 240, 28);
+  font-style: italic;
 }
 
 .sound {
